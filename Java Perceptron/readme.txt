@@ -1,0 +1,1 @@
+Powy¿szy folder zawiera program rozpoznawaj¹cy miêdzy jêzykami W³oskim. Hiszpañskim i Portugalskim u¿ywaj¹c prostych perceptronów.

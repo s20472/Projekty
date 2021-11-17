@@ -1,0 +1,1 @@
+Powy¿sze foldery zawieraj¹ dwa programy pozwalaj¹ce na prost¹ komunikacjê u¿ywaj¹c protoko³u UDP wraz z opisem dzia³ania i instrukcj¹ obs³ugi w postaci dokumentu tekstowego.
